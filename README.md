@@ -1,2 +1,1 @@
-# MyFirstRepository
-For learning how to use GitHub~ 
+#从开始记录我做的一些东西
